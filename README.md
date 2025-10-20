@@ -16,19 +16,23 @@
 
 ---
 
-## 🚀 Featured Projects & Experience
+## 💼 Experience
 
 ### Infosys (Internship)
-## 1. AI Legal Reference and Case Retrieval System
+## AI Legal Reference and Case Retrieval System
 * **Role:** Developed a **full-stack AI application** for legal professionals using Python and Streamlit.
 * **Core Tech:** Engineered a **Retrieval-Augmented Generation (RAG) pipeline** using **LangChain** and **OpenAI GPT-3.5-Turbo** to deliver context-aware legal answers.
 * **Impact:** Implemented efficient semantic search with **Sentence-Transformers** and a **Pinecone** vector database. Designed a secure backend with a **SQLite** database.
 
-### 2. Campus Knowledge Engine
+---
+
+## 🚀 My Projects
+
+### Campus Knowledge Engine
 * **Concept:** Built an intelligent **24/7 AI Campus Guide** to answer student/faculty queries through natural language conversations.
 * **Tech Stack:** Python, **LangChain**, and **Google Gemini** with RAG pipeline.
 
-### 3. Heart Disease Prediction Model
+### Heart Disease Prediction Model
 * **Goal:** Developed a prediction model using Scikit-learn, Pandas, and NumPy for data preprocessing and feature engineering.
 * **Result:** Implemented a **Decision Tree** algorithm, achieving **70% accuracy**.
 
