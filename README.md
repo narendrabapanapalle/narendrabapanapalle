@@ -18,7 +18,8 @@
 
 ## 🚀 Featured Projects & Experience
 
-### 1. Infosys AI Legal Reference and Case Retrieval System (Internship)
+### Infosys (Internship)
+## 1. AI Legal Reference and Case Retrieval System
 * **Role:** Developed a **full-stack AI application** for legal professionals using Python and Streamlit.
 * **Core Tech:** Engineered a **Retrieval-Augmented Generation (RAG) pipeline** using **LangChain** and **OpenAI GPT-3.5-Turbo** to deliver context-aware legal answers.
 * **Impact:** Implemented efficient semantic search with **Sentence-Transformers** and a **Pinecone** vector database. Designed a secure backend with a **SQLite** database.
@@ -35,7 +36,7 @@
 
 ## 🎓 Education & Certifications
 
-* **B.Tech in Computer Science:** Mohan Babu University, Tirupati (CGPA: 9.54/10).
+* **B.Tech in Computer Science:** Mohan Babu University, Tirupati (CGPA: $9.54/10$).
 * **Artificial Intelligence (Infosys):** Successfully completed over 150+ hours of certified training, strengthening foundational knowledge in ML, DL, NLP, and Generative AI.
 * **Generative AI (Microsoft):** Completed comprehensive LinkedIn Learning path, mastering AI fundamentals, search evolution, and ethical considerations.
 
