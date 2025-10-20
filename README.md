@@ -8,15 +8,17 @@ Hey there! I'm **Narendra**, a **3rd-year Computer Science student** at **Mohan 
 
 ---
 
-## 🛠️ My Tech Toolbox & Expertise
+## 🛠️ My Skills & Expertise
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, SQL |
-| **AI/ML/DL** | NumPy, Pandas, Scikit-learn, TensorFlow, NLTK |
-| **Generative AI**| **LangChain**, **RAG**, AI Agents, NLP, Prompt Engineering |
-| **Databases** | SQL, SQLite (for session management), Pinecone (Vector Database) |
-| **Developer Tools**| Git/GitHub, VS Code, Google Colab |
+* **💻 Programming Languages:** Python, Java, SQL
+* **📚 Frameworks/Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, NLTK, LangChain
+* **🗄️ Database:** SQL, SQLite, Pinecone (Vector Database)
+* **🧠 Domain Expertise:** AI Agents, Retrieval-Augmented Generation (RAG), NLP
+* **📈 Algorithms (ML, DL):** Linear Regression, Logistic Regression, Decision Tree, Random Forest, ANN, CNN
+* **🛠️ Developer Tools:** Git/GitHub, VS Code, Google Colab
+* **🖥️ Academic Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP
+* **🧩 Data Structures & Algorithms:** Structuring information for efficiency
+* **🎯 Interests:** Problem-Solving, Competitive Programming, Open-Source Contributions, Hackathons
 
 ---
 
