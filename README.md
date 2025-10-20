@@ -10,7 +10,7 @@ Hey there! I'm **Narendra**, a **3rd-year Computer Science student** at **Mohan 
 
 ## 🛠️ My Skills & Expertise
 
-* **💻 Programming Languages:** Python, Java, SQL
+* **💻 Programming Languages:** Python, Java
 * **📚 Frameworks/Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, NLTK, LangChain
 * **🗄️ Database:** SQL
 * **🧠 Domain Expertise:** AI Agents, Retrieval-Augmented Generation (RAG), NLP
