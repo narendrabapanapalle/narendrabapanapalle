@@ -1,7 +1,5 @@
 # Hi there, I'm Narendra Bapanapalle! 👋
 
-> Highly motivated 3rd-year Computer Science student passionate about building intelligent systems, focusing on **AI Agents** and **Retrieval-Augmented Generation (RAG)** pipelines. Eager for internship opportunities to contribute to innovative projects.
-
 ---
 
 ## 📌 About Me
