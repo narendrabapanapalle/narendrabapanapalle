@@ -4,7 +4,8 @@
 
 ## 📌 About Me  
 
-Hey there! I'm **Narendra**, a **3rd-year Computer Science student** at **Mohan Babu University, Tirupati**, passionate about **Artificial Intelligence**, **Generative AI**, and **building intelligent systems** that solve real-world problems.  
+Hey there! I'm **Narendra**, a **3rd-year Computer Science student** at **Mohan Babu University, Tirupati**, with a **strong foundation in programming, data structures, and algorithms**.  
+I’m passionate about **Artificial Intelligence**, **Generative AI**, and **building intelligent systems** that solve real-world problems.  
 I enjoy working on projects that blend creativity with technology — from AI assistants to ML-powered solutions — while continuously improving my skills in coding and algorithmic thinking.  
 
 This README highlights my journey, skills, projects, and experiences 🚀  
