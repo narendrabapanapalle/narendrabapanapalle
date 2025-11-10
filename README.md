@@ -20,7 +20,8 @@ This README highlights my journey, skills, projects, and experiences 🚀
 - **🧠 Domain Expertise:** AI Agents, Retrieval-Augmented Generation (RAG), NLP  
 - **📈 ML/DL Algorithms:** Linear Regression, Logistic Regression, Decision Tree, Random Forest, ANN, CNN  
 - **🧩 Developer Tools:** Git/GitHub, VS Code, Google Colab  
-- **🎓 Academic Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP  
+- **🎓 Academic Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP
+- **🎯 Interests:** Problem-Solving, Open-Source Contributions, Hackathons
 
 ---
 
