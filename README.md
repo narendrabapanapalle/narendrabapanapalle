@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narendra Bapanapalle</h1>
 
 <h3 align="center">
-Artificial Intelligence Enthusiast | Python Developer | Machine Learning | Generative AI
+Artificial Intelligence Enthusiast | Machine Learning | Generative AI
 </h3>
 
 <p align="center">
