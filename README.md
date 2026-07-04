@@ -63,6 +63,7 @@ Final Year Computer Science Student at Mohan Babu University
 - Google Colab
 
 ### 📖 Computer Science
+- Data Structures & Algorithms
 - DBMS
 - OOPS
 - Operating Systems
@@ -145,20 +146,6 @@ Topics Covered:
 - Generative AI
 - Prompt Engineering
 - Data Science
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=narendrabapanapalle&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabapanapalle&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrabapanapalle&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
